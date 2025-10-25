@@ -1,3 +1,7 @@
+# Mario Kart Nitro
+
+Mario Kart Nitro is an in-progress distribution created by MRAP12 and the Nitro Team. It will contain a mix of retro and custom tracks, as well as some of the original tracks. The distribution will release in 2027.
+
 # Pulsar
 
 Pulsar is a Mario Kart Wii Kamek-Based engine to create CT distributions. It comes with its own [software](../main/PulsarPackCreator/Executable) to aid in building custom distributions, and multiple quality of life features:
